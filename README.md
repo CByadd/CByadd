@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 My Portfolio [https://youtube.com/](https://youtube.com/)
-
 - 💬 Ask me about **React,Animation Video**
 
 - 📫 How to reach me **srinnivassh@gmail.com**
