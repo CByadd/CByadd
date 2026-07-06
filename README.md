@@ -1,21 +1,65 @@
-<h1 align="center">Hi 👋, I'm Srinivash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Srinivash R.T.
 
-- 🌱 I’m currently learning **MongoDB | C | Python**
+### Full Stack Developer • UI/UX Designer • 3D Artist from India
 
-- 👨‍💻 All of my projects are available at [https://srini-portfolio-cbyadd.onrender.com/](https://srini-portfolio-cbyadd.onrender.com/)
+I'm passionate about building modern SaaS applications, AI-powered products, and immersive web experiences with clean UI, smooth animations, and scalable architecture.
 
-- 💬 Ask me about **JS | Blender | 3d Animation**
+---
 
-- 📫 How to reach me **srinnivassh@gmail.com**
+## About Me
 
-- ⚡ Fun fact **An X FF Player**
+* 🔭 Building modern **AI-powered SaaS applications**
+* 🌱 Currently learning **Hugg Face Transform Models and LLM Trainings**
+* 💡 Interested in **Artificial Intelligence, SaaS, Full Stack Development, 3D Web Experiences & Automation**
+* 🎨 Passionate about **Modern UI/UX Design, React, Three.js & Blender**
+* 💬 Ask me about **React, Tailwind CSS, Node.js, Blender, Three.js, GSAP & Framer Motion**
+* 📫 Reach me at **[srinnivassh@gmail.com](mailto:srinnivassh@gmail.com)**
+* 🌐 Portfolio: **https://srini-portfolio-cbyadd.onrender.com/**
+* ⚡ Fun Fact: I enjoy creating cinematic UI animations and interactive 3D experiences.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/srini-vash-33b6a5316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srini-vash-33b6a5316" height="30" width="40" /></a>
-<a href="https://instagram.com/srinivash_cb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srinivash_cb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srini-vash-33b6a5316" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://instagram.com/srinivash_cb" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+# Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,threejs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,c,firebase,mongodb,postgres,prisma" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=blender,git,github,vscode,figma,npm,postman,docker,aws" />
+</p>
+
+---
+
+## Quote
+
+> *"Not an Vibe Code Developer, I am the Developer with Engineering Mindset."*
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SriniVash&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
