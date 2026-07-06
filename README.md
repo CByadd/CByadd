@@ -1,6 +1,6 @@
 # Hi 👋, I'm Srinivash R.T.
 
-### Full Stack Developer • UI/UX Designer • 3D Artist from India
+### Full Stack Developer •  3D Artist from India
 
 I'm passionate about building modern SaaS applications, AI-powered products, and immersive web experiences with clean UI, smooth animations, and scalable architecture.
 
